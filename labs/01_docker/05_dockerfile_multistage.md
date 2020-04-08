@@ -62,7 +62,7 @@
     └── strings-app
         ├── Program.cs
         ├── obj             
-        └── strings-app.csproj
+        └── strings-app.csprojdocker 
 ```
 
 4. Build your Docker Image from `my-apps` folder. Don't forget to prefix with `sudo` if you are on vsonline.

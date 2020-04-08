@@ -1,0 +1,7 @@
+[0;32mKubernetes master[0m is running at [0;33mhttps://cw-dns-b37513f2.hcp.northeurope.azmk8s.io:443[0m
+[0;32mhealthmodel-replicaset-service[0m is running at [0;33mhttps://cw-dns-b37513f2.hcp.northeurope.azmk8s.io:443/api/v1/namespaces/kube-system/services/healthmodel-replicaset-service/proxy[0m
+[0;32mCoreDNS[0m is running at [0;33mhttps://cw-dns-b37513f2.hcp.northeurope.azmk8s.io:443/api/v1/namespaces/kube-system/services/kube-dns:dns/proxy[0m
+[0;32mkubernetes-dashboard[0m is running at [0;33mhttps://cw-dns-b37513f2.hcp.northeurope.azmk8s.io:443/api/v1/namespaces/kube-system/services/kubernetes-dashboard/proxy[0m
+[0;32mMetrics-server[0m is running at [0;33mhttps://cw-dns-b37513f2.hcp.northeurope.azmk8s.io:443/api/v1/namespaces/kube-system/services/https:metrics-server:/proxy[0m
+
+To further debug and diagnose cluster problems, use 'kubectl cluster-info dump'.
